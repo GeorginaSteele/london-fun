@@ -14,3 +14,8 @@ Places in London will be kept in a json file to begin with (could expand this to
 * Category (enum of strings)
 * Time of Day (enum of strings)
 * Website (string)
+
+
+## Expansion Ideas
+
+Add a category for type of food (for the food places) and be able to filter on this too.
