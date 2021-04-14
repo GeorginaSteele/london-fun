@@ -16,6 +16,14 @@ Places in London will be kept in a json file to begin with (could expand this to
 * Website (string)
 
 
+## Technology to Investigate
+
+Technologies that might be helpful for this project:
+* Django - high level python web framework
+* Flask
+* Fastapi
+* Starlette
+
 ## Expansion Ideas
 
 * Add a category for type of food (for the food places) and be able to filter on this too
