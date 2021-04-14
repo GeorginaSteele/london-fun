@@ -19,3 +19,6 @@ Places in London will be kept in a json file to begin with (could expand this to
 ## Expansion Ideas
 
 Add a category for type of food (for the food places) and be able to filter on this too.
+Have a similar project for cycling cafes
+Expand json file of places to database
+Colour-code the location pins
